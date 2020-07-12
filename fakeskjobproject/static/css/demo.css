@@ -1,0 +1,48 @@
+body
+{
+background-image: url("https://images.unsplash.com/photo-1564069114553-7215e1ff1890?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.container
+{
+  margin-top: 200px;
+}
+.jumbotron a
+{
+  background: yellow;
+  color: red;
+  border: 2px solid green;
+}
+img
+{
+  height: 200px;
+  width: 30%;
+  float: left;
+  margin: 1.5%
+  border:2px solid red;
+}
+.imgsb
+{
+  border: 3px solid red;
+}
+h1
+{
+  color: white;
+  text-align: center;
+  background: red;
+}
+table,thead,th,tr,td
+{
+  color: yellow;
+  border: 2px solid white;
+  font-size: 20px;
+  margin: auto;
+  background: red;
+}
+thead,th
+{
+  color: white;
+  border: 2px solid white;
+  font-size: 20px;
+}
